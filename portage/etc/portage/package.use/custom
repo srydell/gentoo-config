@@ -1,0 +1,8 @@
+# Linux
+sys-apps/util-linux static-libs
+
+# Sway
+>=media-libs/mesa-18.2.8 gles2
+>=sys-apps/systemd-239-r4 policykit
+# Spidermonkey Polkit Systemd
+>=dev-lang/python-2.7.15:2.7 sqlite

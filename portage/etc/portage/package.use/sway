@@ -1,5 +1,0 @@
-# required by dev-libs/wlroots-0.3::gentoo
-# required by dev-libs/sway-1.0_rc2::gentoo
-# required by dev-libs/sway (argument)
->=media-libs/mesa-18.2.8 gles2
->=dev-libs/sway-1.0_rc2::gentoo swaybg swayidle swaylock swaymsg swaynag man wallpapers zsh-completions
